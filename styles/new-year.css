@@ -1,0 +1,18 @@
+#{
+    margin: 0;
+    font-family: 'Open Sans', sans-serif;
+
+}
+/*header banner  */
+.contact{
+    color: #FFFFFF;
+    background: fixed;
+    background-color: red;
+}
+/* sub-banner */
+.sub-banner{
+    display: flex;
+}
+.my{
+    text-align: center;
+}
